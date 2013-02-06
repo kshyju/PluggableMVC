@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{A30DFE14-AC82-43E7-B8FB-C136C02D91A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum", "Core\Areas\Forum\Forum.csproj", "{8AE6AE12-09CD-4CB4-9551-C235CBAC4EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30DFE14-AC82-43E7-B8FB-C136C02D91A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30DFE14-AC82-43E7-B8FB-C136C02D91A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30DFE14-AC82-43E7-B8FB-C136C02D91A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30DFE14-AC82-43E7-B8FB-C136C02D91A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE6AE12-09CD-4CB4-9551-C235CBAC4EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE6AE12-09CD-4CB4-9551-C235CBAC4EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE6AE12-09CD-4CB4-9551-C235CBAC4EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE6AE12-09CD-4CB4-9551-C235CBAC4EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
